@@ -1,4 +1,4 @@
 # firstrepository
 This is my first git repository
 <br/>
-Author - Dinesh
+Author - Dinesh (student)
